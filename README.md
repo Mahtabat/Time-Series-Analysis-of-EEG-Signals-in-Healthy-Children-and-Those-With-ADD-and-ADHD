@@ -74,6 +74,10 @@ Multiscale Entropy · Time Series · EEG · Correlation · ADD · ADHD-I · ADHD
 ## 🔎 About the Data  
 EEG recordings were analyzed from multiple electrodes and compared across the three groups. The entropy plots reveal behavioral and physiological differences that may support diagnostic insights.
 
+----
+Author: Mahtab Ataei
+
+
 
 ---
 
